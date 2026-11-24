@@ -1,0 +1,1 @@
+{"description":"One sentence of at most 200 characters explaining the modern internet to a time traveler from 1800.","license":"MIT","main":"main.ts","name":"u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb-entry","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
